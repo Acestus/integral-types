@@ -1,0 +1,14 @@
+C:\Users\wbalconi\git\free-code-camp\integral-types\bin\Debug\net8.0\integral-types.exe
+C:\Users\wbalconi\git\free-code-camp\integral-types\bin\Debug\net8.0\integral-types.deps.json
+C:\Users\wbalconi\git\free-code-camp\integral-types\bin\Debug\net8.0\integral-types.runtimeconfig.json
+C:\Users\wbalconi\git\free-code-camp\integral-types\bin\Debug\net8.0\integral-types.dll
+C:\Users\wbalconi\git\free-code-camp\integral-types\bin\Debug\net8.0\integral-types.pdb
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\integral-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\integral-types.AssemblyInfoInputs.cache
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\integral-types.AssemblyInfo.cs
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\integral-types.csproj.CoreCompileInputs.cache
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\integral-types.dll
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\refint\integral-types.dll
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\integral-types.pdb
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\integral-types.genruntimeconfig.cache
+C:\Users\wbalconi\git\free-code-camp\integral-types\obj\Debug\net8.0\ref\integral-types.dll
